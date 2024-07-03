@@ -6,7 +6,7 @@ You are probably familiar with the game Rock-Paper-Scissors. This variant adds t
 
 ## Your Task
 
-Your job is to build an agent and pit it against your fellow interns (as well as a few other simple bots that I'll add into the mix)!
+Your job is to build an agent and pit it against your fellow interns!
 
 It's possible to get something working very quickly - there are already a few very simple bots in this repo - but the possibilities for making your agent more sophisticated and complex are endless!
 
@@ -58,7 +58,7 @@ sh battle.sh playerOneBot playerTwoBot
 
 ## Testing Your Bot Remotely
 
-You can upload your bot to https://dynamite.softwire.com to play against bots that other people have previosuly created.
+You can upload your bot to https://dynamite.softwire.com to play against bots that other people have previously.
 
 **Important: you will need to upload the transpiled JavaScript file for your bot, not the TypeScript file that you developed. This can be found at `dist/bots/botName.js` after running `npm run convert`.**
 
